@@ -16,15 +16,15 @@ DOMESTIC_FILE = Path(r"D:\protected folder\Learning\Competition\校赛\data\doma
 
 # 国际原油日度价格文件
 # 格式：date,price
-CRUDE_FILE = Path(r"D:\protected folder\Learning\Competition\校赛\data\basket-daily.csv")
+CRUDE_FILE = Path(r"D:\protected folder\Learning\Competition\校赛\data\wti-daily.csv")
 
 # 输出文件
-OUTPUT_FILE = Path("basket-average-NIncl.csv")
+OUTPUT_FILE = Path("wti-average-Incl.csv")
 
 # 是否包含国内调价当天
 # False：取 [调价日前10天, 调价日前1天]
 # True：取 [调价日前9天, 调价当天]
-INCLUDE_ADJUST_DAY = False
+INCLUDE_ADJUST_DAY = True
 
 # 取前多少个自然日范围
 WINDOW_DAYS = 10
