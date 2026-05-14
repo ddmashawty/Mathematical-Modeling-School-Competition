@@ -1,0 +1,2 @@
+﻿w1_diesel,w2_diesel,w3_diesel,alpha_diesel,beta_diesel,pi0_diesel,selection_metric,full_model_mae,full_model_rmse,full_model_mape,volatility_mae,volatility_rmse,volatility_mape,sample_count,validation_count
+0.08,0.92,0.0,1.1814882055307325,3079.4005631903083,653.7068323944709,volatility_mae,97.90084243160508,116.99004722586407,0.01291005402696272,97.90084243160508,116.99004722586407,0.7434169181351317,158.0,241.0

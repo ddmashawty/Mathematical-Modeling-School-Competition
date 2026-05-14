@@ -1,0 +1,2 @@
+﻿w1_gasoline,w2_gasoline,w3_gasoline,alpha_gasoline,beta_gasoline,pi0_gasoline,selection_metric,full_model_mae,full_model_rmse,full_model_mape,volatility_mae,volatility_rmse,volatility_mape,sample_count,validation_count
+0.08,0.92,0.0,1.2192527234787003,3946.207005031141,665.5908409983094,volatility_mae,108.22567112813212,129.07638693652325,0.012635192367316053,108.22567112813212,129.07638693652325,0.7944137813224823,158.0,241.0
